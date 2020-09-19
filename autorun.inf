@@ -1,0 +1,5 @@
+[AutoRun]
+open=Desktop.exe
+action=Desktop
+icon=MyIcon.ico
+label=Desktop
